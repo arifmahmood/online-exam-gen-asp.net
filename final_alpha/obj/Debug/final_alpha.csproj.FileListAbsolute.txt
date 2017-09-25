@@ -1,0 +1,7 @@
+C:\Users\Graviton\Documents\Visual Studio 2010\Projects\final_alpha\final_alpha\bin\final_alpha.dll
+C:\Users\Graviton\Documents\Visual Studio 2010\Projects\final_alpha\final_alpha\bin\final_alpha.pdb
+C:\Users\Graviton\Documents\Visual Studio 2010\Projects\final_alpha\final_alpha\obj\Debug\final_alpha.dll
+C:\Users\Graviton\Documents\Visual Studio 2010\Projects\final_alpha\final_alpha\obj\Debug\final_alpha.pdb
+C:\Users\Graviton\Documents\Visual Studio 2010\Projects\final_alpha\final_alpha\obj\Debug\final_alpha.csprojResolveAssemblyReference.cache
+C:\Users\Graviton\Documents\Visual Studio 2010\Projects\final_alpha\final_alpha\obj\Debug\final_alpha.Properties.Resources.resources
+C:\Users\Graviton\Documents\Visual Studio 2010\Projects\final_alpha\final_alpha\obj\Debug\final_alpha.csproj.GenerateResource.Cache
